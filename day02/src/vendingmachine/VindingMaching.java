@@ -24,7 +24,7 @@ public class VindingMaching {
         showbalance();
     }
     void showbalance()
-    {    int a;
+    {    
         System.out.println(balance);
     }
     void getgood(){
